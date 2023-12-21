@@ -1,4 +1,5 @@
 # Pose-Detection-Project
+![pose detection](https://github.com/TariTech28/Pose-Detection-Project/assets/140518602/5cd9b2b7-d34e-4c2e-ac9c-4f1c69e42f3e)
 
 ## Overview:
  Leveraging the capabilities of machine learning, it enables the analysis and understanding of human body movements in real-time.
